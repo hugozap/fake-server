@@ -1,0 +1,17 @@
+module.exports=[
+	{
+		id:'bta',
+		name:'Bogotá',
+		country:'CO'
+	},
+	{
+		id:'cali',
+		name:'Cali',
+		country:'CO'
+	},
+		{
+		id:'med',
+		name:'Medellín',
+		country:'CO'
+	}
+];
