@@ -16,5 +16,8 @@ app.get('/cities',function(req,res){
 	res.send(cities);
 });
 
+app.post('/save',function(req,res){
+	var myVar = req.body.myVar;
+})
 
 app.listen(8080);
